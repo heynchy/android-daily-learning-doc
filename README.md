@@ -2,6 +2,7 @@
 一个Android小菜鸟的懒散日常学习文档
 ### 文档链接
  [1. 赋值运算符的理解 (Android)](https://blog.csdn.net/qq_29742677/article/details/84539879)
+ 
  [2. 单例模式（Singleton）---Android端双重校验锁](https://blog.csdn.net/qq_29742677/article/details/84540948)
  [3. Android开发工具类：将数字转换为汉字的表现形式](https://blog.csdn.net/qq_29742677/article/details/84341029)
  [4. Android ImageView加载大图片工具类-------防止发生OOM](https://blog.csdn.net/qq_29742677/article/details/84339930)
